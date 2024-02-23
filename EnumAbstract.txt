@@ -1,0 +1,22 @@
+enum MyEnum{
+c1{
+//Body of constant c1
+public int getValue(){
+return 100;
+}
+},
+c2{
+//Body of constant c1
+public int getValue(){
+return 100;
+}
+},
+c3{
+//Body of constant c1
+public int getValue(){
+return 100;
+}
+};
+
+
+}
